@@ -1,3 +1,3 @@
 # hellow-world
-Myfirst repository
+Myfirst repository.
 Happiness is the most inmportant.
